@@ -11,6 +11,20 @@ body {
     color: #6a737b;
 }
 
+.banner {
+  background-image: url(../img/banner.png);
+  background-position: center;
+}
+
+.hidden {
+  color: rgba(0, 0, 0, 0.0); 
+  text-shadow: none !important;
+}
+
+.hero {
+  margin-top: -40px;
+}
+
 ol, ul {
     margin: 0;
     padding: 0;
